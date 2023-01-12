@@ -14,6 +14,11 @@ From this point on everything should be fairly intuitive but if not, feel free\
 to use this [tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) to help navigate the process!
 
 ## 3. Remotely Connecting your terminal to UCSD CSE
-> If you are on Mac, please skip to step number 2.\
-* 1. Install git for Windows using this [download link](https://gitforwindows.org)
+> If you are on Mac, please skip to step number 3.
+\
+1. Install **git** for Windows using this [download link](https://gitforwindows.org)
+2. Change your default terminal to use the just-installed **git bash** in Visual Studio Code using these [instructions](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
+3. To use ssh, open a new terminal in VS Code by pressing **Ctrl(Windows) or Command(Mac) + `**
+4. In the terminal, type the following comand except with "zz" replaced by your individual course-specific account's letters.
+5. 
 

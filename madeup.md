@@ -6,9 +6,9 @@ I can make a paragraph by using a backslash\that is crazy
 > These are blockquotes
 > Hello thereee
 
-### Grocery list
+## Grocery list
 * Bananas
 * Trader Joe's meatballs
 * Swedish meatballs
 
-ClICK HERE(https://youtu.be/qu6GMpQfyUU)
+[ClICK HERE](https://youtu.be/qu6GMpQfyUU)

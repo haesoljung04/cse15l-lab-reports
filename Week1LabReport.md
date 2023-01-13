@@ -1,5 +1,5 @@
 # Week 1 Lab Report
-*How to log into a course-specific account on ieng6*
+*How I, Haesol Jung, was able to log into a course-specific account on ieng6*
 ## 1. Installing Visual Studio Code
 Go to the official Visual Studio Code [website](https://code.visualstudio.com) and download the correct version of VS Code\
 according to your operating system. Follow the instructions to complete the installation and when finished, you should\

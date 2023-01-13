@@ -43,8 +43,7 @@ Any commands you run now will run on that server. How exciting!
 2. ls <path> - “List” Used to list the files/folders in the given path
 3. pwd - “Print working directory” Used to display the current working directory
 4. cd <path> - “Change Directory” Used to change the current working directory to the given path\
-\
-## Below is an example of what some sample command inputs and outputs look like:
+**Below is an example of what some sample command inputs and outputs look like:**
 
 <img width="500" alt ="samplecommands" src="https://user-images.githubusercontent.com/110417501/212436525-42c78ae3-c704-4d6f-bc34-ff81eed6f005.png">
 

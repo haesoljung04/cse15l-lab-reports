@@ -31,9 +31,8 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 6. Now, type "yes" in the terminal and right after, when prompted for a password, enter the new password you made previously\
 in the section "Resetting your CSE 15L Account". If you have succesfully logged in, you should see a message similar to this:
 <img width="468" alt="succesfullogin" src="https://user-images.githubusercontent.com/110417501/212238877-aae30eab-f929-4a56-ba6c-4f5c01b8574e.png">
-\
-> NOTE: there will be no visible characters when typing out your password but it is a common terminal feature that is used\
-to protect your privacy.
+>NOTE: there will be no visible characters when typing out your password but it is a common terminal feature that is used\
+>to protect your privacy.
 
 **Congrats!** You have successfully connected your computer(the client) to a computer in the CSE Basement(the server).\
 Any commands you run now will run on that server. How exciting!

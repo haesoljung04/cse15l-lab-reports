@@ -39,8 +39,8 @@ Any commands you run now will run on that server. How exciting!\
 \
 ## 4. Running Commands on Terminal
 **Some important commands you should try implementing are:**
-1. cat <path1> <path2> ... - “Concatenate” Used to print the contents of one or more files given by the paths
-2. ls <path> - “List” Used to list the files and folders the given path
+1. cat <path1> <path2> ... - Used to print the contents files given by the paths
+2. ls <path> - “List” Used to list the files/folders in the given path
 3. pwd - “Print working directory” Used to display the current working directory
-4. cd <path> - “Change Directory” Used to switch the current working directory to the given path
+4. cd <path> - “Change Directory” Used to change the current working directory to the given path
 

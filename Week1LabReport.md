@@ -19,7 +19,7 @@ to use this [tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8
 1. Install **git** for Windows using this [download link](https://gitforwindows.org)
 2. Change your default terminal to use the just-installed **git bash** in Visual Studio Code using these [instructions](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 3. To use ssh, open a new terminal in VS Code by pressing **Ctrl(Windows) or Command(Mac) + `**
-4. In the terminal, type the following comand except with "zz" replaced by your individual course-specific account's letters.
+4. In the terminal, type the following comand except with "zz" replaced by your individual course-specific account's letters.\
 `ssh cs15lwi23zz@ieng6.ucsd.edu`
 5. After pressing enter, you should receive a message not unlike the one below:
 ```

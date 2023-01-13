@@ -31,3 +31,5 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 6. Now, type "yes" in the terminal and right after, when prompted for a password, enter the new password you made previously\
 in the section "Resetting your CSE 15L Account".
+> NOTE: there will be no visible characters when typing out your password but it is a common terminal feature that is used\
+> to protect your privacy.

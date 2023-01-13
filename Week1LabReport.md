@@ -48,3 +48,4 @@ Any commands you run now will run on that server. How exciting!
 \
 ![samplecommands](https://user-images.githubusercontent.com/110417501/212436525-42c78ae3-c704-4d6f-bc34-ff81eed6f005.png)
 
+**Remember that when you are done testing commands on the remote server, you can also 

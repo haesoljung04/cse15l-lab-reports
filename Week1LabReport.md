@@ -36,7 +36,6 @@ in the section "Resetting your CSE 15L Account". If you have succesfully logged 
 
 **Congrats!** You have successfully connected your computer(the client) to a computer in the CSE Basement(the server).\
 Any commands you run now will run on that server. How exciting!\
-\
 ## 4. Running Commands on Terminal
 **Some important commands you should try implementing are:**
 1. cat <path1> <path2> ... - Used to print the contents files given by the paths

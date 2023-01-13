@@ -20,7 +20,7 @@ to use this [tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8
 2. Change your default terminal to use the just-installed **git bash** in Visual Studio Code using these [instructions](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 3. To use ssh, open a new terminal in VS Code by pressing **Ctrl(Windows) or Command(Mac) + `**
 4. In the terminal, type the following comand except with "zz" replaced by your individual course-specific account's letters.
-- `ssh cs15lwi23zz@ieng6.ucsd.edu`
+`ssh cs15lwi23zz@ieng6.ucsd.edu`
 5. After pressing enter, you should receive a message not unlike the one below:
 - 
 ```
@@ -29,3 +29,5 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+6. Now, type "yes" in the terminal and right after, when prompted for a password, enter the new password you made previously\
+in the section "Resetting your CSE 15L Account".

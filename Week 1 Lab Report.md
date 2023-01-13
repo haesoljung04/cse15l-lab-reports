@@ -21,4 +21,11 @@ to use this [tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8
 3. To use ssh, open a new terminal in VS Code by pressing **Ctrl(Windows) or Command(Mac) + `**
 4. In the terminal, type the following comand except with "zz" replaced by your individual course-specific account's letters.
 - `ssh cs15lwi23zz@ieng6.ucsd.edu`
-
+5. After pressing enter, you should receive a message not unlike the one below:
+- 
+```
+⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```

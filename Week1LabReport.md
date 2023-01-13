@@ -38,7 +38,7 @@ in the section "Resetting your CSE 15L Account". If you have succesfully logged 
 Any commands you run now will run on that server. How exciting!\
 \
 ## 4. Running Commands on Terminal
-**Some important commands you should try implementing are:**\
+**Some important commands you should try implementing are:**
 1. cat <path1> <path2> ... - “Concatenate” Used to print the contents of one or more files given by the paths
 2. ls <path> - “List” Used to list the files and folders the given path
 3. pwd - “Print working directory” Used to display the current working directory

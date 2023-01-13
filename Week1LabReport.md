@@ -44,8 +44,9 @@ Any commands you run now will run on that server. How exciting!
 3. pwd - “Print working directory” Used to display the current working directory
 4. cd <path> - “Change Directory” Used to change the current working directory to the given path\
 \
->**Below is an example of what some sample command inputs and outputs look like:**\
+**Below is an example of what some sample command inputs and outputs look like:**\
 \
 ![samplecommands](https://user-images.githubusercontent.com/110417501/212436525-42c78ae3-c704-4d6f-bc34-ff81eed6f005.png)
 
-**Remember that when you are done testing commands on the remote server, you can also 
+> Remember that when you are done testing commands on the remote server, you can also try running these commands on\
+  your own computer as well. To leave the remote server simply run the command `exit`\

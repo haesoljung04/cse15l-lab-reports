@@ -123,7 +123,7 @@ static void reverseInPlace(int[] arr) {
   }
 }
 ```
-The bug was that the original code used the same array to initialize itself\
+>The bug was that the original code used the same array to initialize itself\
 which meant that when the index got past the middle of the array, it would\
 inevitably initialize itself with the values not in reverse but from the values\
 it already had. To fix this code I simply created a new array object and reversed\

@@ -127,6 +127,13 @@ The bug was that the original code used the same array to initialize itself\
 which meant that when the index got past the middle of the array, it would\
 inevitably initialize itself with the values not in reverse but from the values\
 it already had. To fix this code I simply created a new array object and reversed\
-the elementw into that array and then deep-copied it back into the input array.
+the element into that array and then deep-copied it back into the input array.
+
+## Part 3.
+Something I learned from this lab in week 3 that I did not know before was that\
+debugging can actually be quite enjoyable if you take it slowly and step-by-step.\
+I think there is a lot of benefits to debugging together with a lab group because\
+everybody thinks differently and being able to brainstorm ideas together made it very\
+intuitive to draw up potential solutions for every problem.
 
 

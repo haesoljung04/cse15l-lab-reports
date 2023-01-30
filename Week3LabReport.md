@@ -1,4 +1,4 @@
-# Week 2 Lab Report
+# Week 3 Lab Report
 *Servers and Bugs(Week 3)*
 ## Part 1. Writing a web server called `StringServer`
 My code for `StringServer`:

@@ -1,7 +1,7 @@
 # Week 2 Lab Report
 *Servers and Bugs(Week 3)*
 ## Part 1. Writing a web server called `StringServer`
-My code for `StringServer`:\
+My code for `StringServer`:
 ```
 import java.io.IOException;
 import java.net.URI;

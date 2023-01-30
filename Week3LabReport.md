@@ -101,13 +101,11 @@ public void testReverseInPlace() {
 - The symptom, as the output of running the tests:
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/110417501/215382393-f73b287b-5f5d-48b3-abbe-ac031e594860.png">
 - The code with the bug(before):
-```
-static void reverseInPlace(int[] arr) {
+```static void reverseInPlace(int[] arr) {
   for(int i = 0; i < arr.length; i += 1) {
   arr[i] = arr[arr.length - i - 1];
   }
-}
-```
+}```
 - The fixed code(after):
 ```
 static void reverseInPlace(int[] arr) {

@@ -40,6 +40,7 @@ class StringServer {
 ```
 public String handleRequest(URI url) 
 url.getPath()
+equals()
 url.getQuery()
 split()
 add()
@@ -51,4 +52,21 @@ and the values of the query(the part of the url after the "?") are "live",\
 "4365," and "sick." These are all stored in the ArrayList called `messages`.
 - Every request changes the value of the query and therfore appends an element\
 to the ArrayList `messages`. 
+
+2. <img width="707" alt="Screenshot 2023-01-29 at 7 24 30 PM" src="https://user-images.githubusercontent.com/110417501/215380950-aebe90fc-e7c8-4893-9e1c-6b4f2986d5db.png">
+- The methods in my code that are called are as follows:
+```
+public String handleRequest(URI url)
+url.getPath()
+equals()
+getQuery()
+split()
+add()
+```
+- The relevant argument is the URI url which is the full path of the url which is\
+`http://localhost:4325/add-messages?s=` There are no relevant values because there\
+is a lack of an input string which outputs the error:\
+`java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1`
+- No values get changed because without a string it is impossible to `add` something\
+that does not exist.
 

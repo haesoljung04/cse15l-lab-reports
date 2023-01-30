@@ -34,7 +34,7 @@ class StringServer {
 }
 ```
 > NOTE: `Server.java` is a file that was provided to us in Week 2
-> 
+ 
 ### Using `/add-message`
 1. <img width="711" alt="image" src="https://user-images.githubusercontent.com/110417501/215378128-894f2c07-c8d4-4312-8aa2-fa6181f699b0.png">
 - The methods in my code that are called are as follows:

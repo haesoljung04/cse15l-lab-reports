@@ -132,7 +132,7 @@ the element into that array and then deep-copied it back into the input array.
 
 ## Part 3.
 Something I learned from this lab in week 3 that I did not know before was that\
-debugging can actually be quite enjoyable if you take it slowly and step-by-step.\
+debugging can actually be quite enjoyable if you take it slowly and step by step.\
 I think there is a lot of benefits to debugging together with a lab group because\
 everybody thinks differently and being able to brainstorm ideas together made it very\
 intuitive to draw up potential solutions for every problem.

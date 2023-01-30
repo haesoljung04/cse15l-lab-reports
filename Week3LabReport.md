@@ -2,8 +2,8 @@
 *Servers and Bugs(Week 3)*
 ## Part 1. Writing a web server called `StringServer`
 My code for `StringServer`:\
-
-```import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
@@ -31,6 +31,7 @@ class StringServer {
 
         Server.start(port, new StringServerHandler());
     }
-}```
+}
+```
 
 

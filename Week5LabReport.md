@@ -37,7 +37,7 @@ written_2/travel_guides/berlitz2/Bahamas-Intro.txt
 written_2/travel_guides/berlitz2/California-History.txt
 written_2/travel_guides/berlitz2/California-WhatToDo.txt
 ```
-> Explanation: the `grep -l` option allows use to print the names of the files that contain a match\
+> Explanation: the `grep -l` option allows us to print the names of the files that contain a match\
 > for the specified pattern. here we use `grep -rl` in order to search recursively in `written_2` and\
 > print just the name of the file that has the word `Hawaii`. This option is useful because it lets
 > us just see the file names and not have all this messy text in front of us.
@@ -53,11 +53,11 @@ written_2/travel_guides/berlitz1/HistoryIstanbul.txt
 written_2/travel_guides/berlitz1/HistoryItaly.txt
 written_2/travel_guides/berlitz1/HistoryJapan.txt
 ```
-> Explanation: the use of `--exclude=` allows use to exlude certain types of files by specifying file
+> Explanation: the use of `--exclude=` allows us to exlude certain types of files by specifying file
 > types in braces. In this case we exclude our search from `{jpg,png}` files. This is useful if you are
 > looking for certain types of files.
 
-- **Using `n` option**
+- **Using `-n` option**
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:287$ grep -n Emperor written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt
@@ -67,3 +67,5 @@ Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860
 > Explanation: the `grep -n` option allows use to search for a specific pattern in a file and print the line numbers of
 > the matching lines. This is useful because if we know the file that has a specific pattern like `Emperor` we are able
 > to get the exact line number in which it appears using this command. 
+
+```

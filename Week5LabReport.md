@@ -52,3 +52,6 @@ written_2/travel_guides/berlitz1/HistoryIstanbul.txt
 written_2/travel_guides/berlitz1/HistoryItaly.txt
 written_2/travel_guides/berlitz1/HistoryJapan.txt
 ```
+> Explanation: the use of `--exclude=` allows use to exlude certain types of files by specifying file
+> types in braces. In this case we exclude our search from `{jpg,png}` files. This is useful if you are
+> looking for certain types of files.

@@ -1,8 +1,7 @@
 # Week 5 Lab Report
 ## Researching Commands: `grep`
 - **Using `-r` option**
-- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
-<br />
+- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)<br />
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:268$ grep -r jetfoil written_2

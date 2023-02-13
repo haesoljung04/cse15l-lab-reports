@@ -20,8 +20,9 @@ is blank, thought to have been placed here by the First Emperor over 2,000 years
 who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixiaci)
 ```
 > Explanation: This variation of the `grep -r` command will also search for the given pattern but
-> the `--include` option allows use to specify the file extension to search in. In this case, we
-> only want to search in txt files so we put `*.txt`.
+> the `--include` option allows us to specify the file extension to search in. In this case, we
+> only want to search in txt files so we put `*.txt`. This is useful because we can tell the computer
+> we only want to see text files.
 
 - **Using `-l` option**
 1.

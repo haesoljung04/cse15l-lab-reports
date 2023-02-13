@@ -29,7 +29,7 @@ who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixia
 
 
 - **Using `-l` option**
-- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
+- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)<br />
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:285$ grep -rl Hawaii written_2
@@ -65,7 +65,7 @@ written_2/travel_guides/berlitz1/HistoryJapan.txt
 
 
 - **Using `-n` option**
-- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
+- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)<br />
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:287$ grep -n Emperor written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt
@@ -91,7 +91,7 @@ ubway, and Hooters.
 
 
 - **Using `-o` option**
-- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
+- Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)<br />
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:299$ grep -o balloon written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt

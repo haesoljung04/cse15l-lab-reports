@@ -25,7 +25,7 @@ who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixia
 > only want to search in txt files so we put `*.txt`. This is useful because we can tell the computer
 > we only want to see text files.
 
-\
+
 
 - **Using `-l` option**
 - Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
@@ -61,6 +61,8 @@ written_2/travel_guides/berlitz1/HistoryJapan.txt
 > types in braces. In this case we exclude our search from `{jpg,png}` files. This is useful if you are
 > looking for certain types of files.
 
+
+
 - **Using `-n` option**
 - Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
 1.
@@ -84,6 +86,8 @@ ubway, and Hooters.
 > Explanation: the combination of `grep -r` and `grep -n` in `grep -rn` combines the best of both worlds and allows us to
 > search for all the lines in all the files of `written_2` that have the word `Hooters`. This would be useful in a
 > situation where we have to find all the lines in all the files of a directory that contain a pattern.
+
+
 
 - **Using `-o` option**
 - Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)

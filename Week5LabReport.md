@@ -38,7 +38,7 @@ written_2/travel_guides/berlitz2/California-WhatToDo.txt
 ```
 > Explanation: the `grep -l` option allows use to print the names of the files that contain a match\
 > for the specified pattern. here we use `grep -rl` in order to search recursively in `written_2` and\
-> print just the name of the file that has the word `jetfoil`. This option is useful because it lets
+> print just the name of the file that has the word `Hawaii`. This option is useful because it lets
 > us just see the file names and not have all this messy text in front of us.
 
 2. 

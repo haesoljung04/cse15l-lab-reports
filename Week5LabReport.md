@@ -1,6 +1,6 @@
 # Week 5 Lab Report
 ## Researching Commands: `grep`
-- Using `-r` option
+- **Using `-r` option**
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:268$ grep -r jetfoil written_2
@@ -23,7 +23,7 @@ who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixia
 > the `--include` option allows use to specify the file extension to search in. In this case, we
 > only want to search in txt files so we put `*.txt`.
 
-- Using `-l` option
+- **Using `-l` option**
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:285$ grep -rl Hawaii written_2

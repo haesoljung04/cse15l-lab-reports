@@ -45,7 +45,7 @@ written_2/travel_guides/berlitz2/California-WhatToDo.txt
 > Explanation: the `grep -l` option allows us to print the names of the files that contain a match\
 > for the specified pattern. here we use `grep -rl` in order to search recursively in `written_2` and\
 > print just the name of the file that has the word `Hawaii`. This option is useful because it lets
-> us just see the file names and not have all this messy text in front of us.
+> us just see the file names and not have all this messy text in front of us.<br />
 
 2. 
 ```
@@ -74,7 +74,7 @@ Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860
 ```
 > Explanation: the `grep -n` option allows use to search for a specific pattern in a file and print the line numbers of
 > the matching lines. This is useful because if we know the file that has a specific pattern like `Emperor` we are able
-> to get the exact line number in which it appears using this command. 
+> to get the exact line number in which it appears using this command. <br />
 2.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:289$ grep -rn Hooters written_2
@@ -99,7 +99,7 @@ balloon
 ```
 > Explanation: the `grep -o` command at its simplest prints the text that matches the specified pattern which is `balloon`
 > in this case. This is useful because it basically performs the default `grep` command but keeps it simple by only
-> outputting the text if it exists.
+> outputting the text if it exists.<br />
 2.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:297$ grep -o \b[b][a-z]* written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt 

@@ -79,3 +79,23 @@ ubway, and Hooters.
 > Explanation: the combination of `grep -r` and `grep -n` in `grep -rn` combines the best of both worlds and allows us to
 > search for all the lines in all the files of `written_2` that have the word `Hooters`. This would be useful in a
 > situation where we have to find all the lines in all the files of a directory that contain a pattern.
+
+- **Using `-o` option**
+1.
+```
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:299$ grep -o balloon written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt
+balloon
+```
+> Explanation: the `grep -o` command at its simplest prints the text that matches the specified pattern which is `balloon`
+> in this case. This is useful because it basically performs the default `grep` command but keeps it simple by only
+> outputting the text if it exists.
+2.
+```
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:297$ grep -o \b[b][a-z]* written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt 
+balconies
+back
+bars
+```
+> Explanation: the `grep -o` command extracts the matching text from a file and prints it to the console. Here, we
+> use this command along with the expression `\b[Aa][a-z]*` to find all the words that start with a lowercase b in
+> the given file. This is useful because it allows us to use a more broad pattern than searching for a single word.

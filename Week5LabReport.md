@@ -25,6 +25,8 @@ who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixia
 > only want to search in txt files so we put `*.txt`. This is useful because we can tell the computer
 > we only want to see text files.
 
+\
+
 - **Using `-l` option**
 - Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
 1.

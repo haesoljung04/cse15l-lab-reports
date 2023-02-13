@@ -24,7 +24,7 @@ who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixia
 > only want to search in txt files so we put `*.txt`. This is useful because we can tell the computer
 > we only want to see text files.
 
-Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)\
+### Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
 
 - **Using `-l` option**
 1.
@@ -59,7 +59,7 @@ written_2/travel_guides/berlitz1/HistoryJapan.txt
 > types in braces. In this case we exclude our search from `{jpg,png}` files. This is useful if you are
 > looking for certain types of files.
 
-Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)\
+### Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
 
 - **Using `-n` option**
 1.
@@ -84,7 +84,7 @@ ubway, and Hooters.
 > search for all the lines in all the files of `written_2` that have the word `Hooters`. This would be useful in a
 > situation where we have to find all the lines in all the files of a directory that contain a pattern.
 
-Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)\
+### Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)
 
 - **Using `-o` option**
 1.
@@ -106,4 +106,4 @@ bars
 > use this command along with the expression `\b[Aa][a-z]*` to find all the words that start with a lowercase b in
 > the given file. This is useful because it allows us to use a more broad pattern than searching for a single word.
 
-Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)\
+### Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)

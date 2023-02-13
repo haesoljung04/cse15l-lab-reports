@@ -40,7 +40,7 @@ written_2/travel_guides/berlitz2/California-WhatToDo.txt
 > for the specified pattern. here we use `grep -rl` in order to search recursively in `written_2` and\
 > print just the name of the file that has the word `jetfoil`. This option is useful because it lets
 > us just see the file names and not have all this messy text in front of us.
-```
+
 2. 
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:286$ grep -rl Emperor --exclude=*.{jpg,png} written_2

@@ -7,7 +7,11 @@ skill-demo1-data/written_2/travel_guides/berlitz1/WhereToHongKong.txt:\
 The easiest way to get to Macau is by jetfoil, operated by
 ```
 ```
-[cs15lwi23atp@ieng6-202]:skill-demo1-data:272$ grep -r "Bixiaci" --include=*.txt written_2
-written_2/travel_guides/berlitz2/China-WhereToGo.txt:On the summit there are even more treasures. The Tang Dynasty Rock Inscriptions (Moyabei) were struck in large gold-foil characters to record Emperor Xuanzong’s imperial pilgrimage in the year 726. The Stele Without Inscription (Wuzibei) is blank, thought to have been placed here by the First Emperor over 2,000 years earlier; everyone who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixiaci)
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:272$ grep -r "Bixiaci" --include=*.txt written_2\
+written_2/travel_guides/berlitz2/China-WhereToGo.txt:On the summit there are even more treasures.\ 
+The Tang Dynasty Rock Inscriptions (Moyabei) were struck in large gold-foil characters to record\ 
+Emperor Xuanzong’s imperial pilgrimage in the year 726. The Stele Without Inscription (Wuzibei)\ 
+is blank, thought to have been placed here by the First Emperor over 2,000 years earlier; everyone\ 
+who reaches it must touch it for good luck. The Temple of the Purple Dawn (Bixiaci)
 ```
 

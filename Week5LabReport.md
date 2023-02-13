@@ -61,7 +61,8 @@ written_2/travel_guides/berlitz1/HistoryJapan.txt
 1.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:287$ grep -n Emperor written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt\
-18:The best known image of Puerto Vallarta is the Iglesia de Guadalupe (Guadalupe Church), dedicated to the Virgin of\ Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860s. Wife of Emperor Maximillian
+18:The best known image of Puerto Vallarta is the Iglesia de Guadalupe (Guadalupe Church), dedicated to the Virgin of\ 
+Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860s. Wife of Emperor Maximillian
 ```
 > Explanation: the `grep -n` option allows use to search for a specific pattern in a file and print the line numbers of
 > the matching lines. This is useful because if we know the file that has a specific pattern like `Emperor` we are able

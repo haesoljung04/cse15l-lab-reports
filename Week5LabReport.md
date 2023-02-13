@@ -67,5 +67,15 @@ Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860
 > Explanation: the `grep -n` option allows use to search for a specific pattern in a file and print the line numbers of
 > the matching lines. This is useful because if we know the file that has a specific pattern like `Emperor` we are able
 > to get the exact line number in which it appears using this command. 
-
+2.
 ```
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:289$ grep -rn Hooters written_2
+written_2/travel_guides/berlitz2/Vallarta-WhatToDo.txt:17:Also downtown, you’ll find the imported Hard
+Rock Café, Planet Hollywood, and Hooters, but they tend to draw lesser crowds than the locally-owned options.
+written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt:18:This plaza is representative of plazas throughout 
+Mexico; what reminds you that you are in an international tourist town are the surrounding signs for Burger King, S
+ubway, and Hooters.
+```
+> Explanation: the combination of `grep -r` and `grep -n` in `grep -rn` combines the best of both worlds and allows us to
+> search for all the lines in all the files of `written_2` that have the word `Hooters`. This would be useful in a
+> situation where we have to find all the lines in all the files of a directory that contain a pattern.

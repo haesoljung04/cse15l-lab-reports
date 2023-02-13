@@ -43,3 +43,12 @@ written_2/travel_guides/berlitz2/California-WhatToDo.txt
 ```
 2. 
 ```
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:286$ grep -rl Emperor --exclude=*.{jpg,png} written_2
+written_2/travel_guides/berlitz1/HistoryFrance.txt
+written_2/travel_guides/berlitz1/HistoryGreek.txt
+written_2/travel_guides/berlitz1/HistoryHongKong.txt
+written_2/travel_guides/berlitz1/HistoryIndia.txt
+written_2/travel_guides/berlitz1/HistoryIstanbul.txt
+written_2/travel_guides/berlitz1/HistoryItaly.txt
+written_2/travel_guides/berlitz1/HistoryJapan.txt
+```

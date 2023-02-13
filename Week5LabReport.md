@@ -56,3 +56,13 @@ written_2/travel_guides/berlitz1/HistoryJapan.txt
 > Explanation: the use of `--exclude=` allows use to exlude certain types of files by specifying file
 > types in braces. In this case we exclude our search from `{jpg,png}` files. This is useful if you are
 > looking for certain types of files.
+
+- **Using `n` option**
+1.
+```
+[cs15lwi23atp@ieng6-202]:skill-demo1-data:287$ grep -n Emperor written_2/travel_guides/berlitz2/Vallarta-WhereToGo.txt\
+18:The best known image of Puerto Vallarta is the Iglesia de Guadalupe (Guadalupe Church), dedicated to the Virgin of\ Guadalupe, and topped by a copy of the crown worn by Empress Carlota in the 1860s. Wife of Emperor Maximillian
+```
+> Explanation: the `grep -n` option allows use to search for a specific pattern in a file and print the line numbers of
+> the matching lines. This is useful because if we know the file that has a specific pattern like `Emperor` we are able
+> to get the exact line number in which it appears using this command. 

@@ -60,7 +60,7 @@ written_2/travel_guides/berlitz2/California-WhatToDo.txt
 > us just see the file names and not have all this messy text in front of us.
 <br />
 
-2. 
+2.
 Command:
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:286$ grep -rl Emperor --exclude=*.{jpg,png} written_2

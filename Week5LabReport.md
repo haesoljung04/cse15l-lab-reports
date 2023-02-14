@@ -3,8 +3,12 @@
 - **Using `-r` option**
 - Sources used: ChatGPT and [grep man page](https://linuxcommand.org/lc3_man_pages/grep1.html)<br />
 1.
+Command:
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:268$ grep -r jetfoil written_2
+```
+Output:
+```
 written_2/travel_guides/berlitz1/WhereToHongKong.txt:\        
 The easiest way to get to Macau is by jetfoil, operated by
 ```
@@ -14,8 +18,12 @@ The easiest way to get to Macau is by jetfoil, operated by
 <br />
 
 2.
+Command:
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:272$ grep -r "Bixiaci" --include=*.txt written_2\
+```
+Output:
+```
 written_2/travel_guides/berlitz2/China-WhereToGo.txt:On the summit there are even more treasures.\ 
 The Tang Dynasty Rock Inscriptions (Moyabei) were struck in large gold-foil characters to record\ 
 Emperor Xuanzong’s imperial pilgrimage in the year 726. The Stele Without Inscription (Wuzibei)\ 

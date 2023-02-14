@@ -12,6 +12,7 @@ The easiest way to get to Macau is by jetfoil, operated by
 > in all the files of a directory and its subdirectories. In the code block above, we can see 
 > that this is useful when we would like to find the file that contains a specific word.
 <br />
+
 2.
 ```
 [cs15lwi23atp@ieng6-202]:skill-demo1-data:272$ grep -r "Bixiaci" --include=*.txt written_2\

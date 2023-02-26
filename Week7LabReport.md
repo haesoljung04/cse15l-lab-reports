@@ -19,7 +19,7 @@ search history, so I used the up arrow to access it and the enter key to run.
 ### 6. Run the tests, demonstrating that they fail
 
 > Keys Pressed: `c + d + l + a + b + 7`,`<up><up><up><up><up><up><up><up><up><up><up><up><enter>`,\
-> `<up><up><up><up><up><up><up><up><up><up><up><up><enter>
+> `<up><up><up><up><up><up><up><up><up><up><up><up><enter>`
 
 The `cd lab7` command allowed me to change directory into the forked repo\
 so that I could run the tests and pressing the up key 15 times allowed me to access\

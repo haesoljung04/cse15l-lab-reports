@@ -5,7 +5,7 @@
 
 > Keys Pressed: `<up><enter>`
 
-The `sshcs15lwi23atp@ieng6.ucsd.edu` command was 1 up in the search history,\
+The `sshcs15lwi23atp@ieng6.ucsd.edu` command was 1 up in the search history,
 so I used the up arrow to access it and the enter key to run it.
 
 ### 5. Clone your fork of the repository from your Github account
@@ -13,7 +13,7 @@ so I used the up arrow to access it and the enter key to run it.
 
 > Keys Pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><enter>`
 
-The `gitclone https://github.com/haesoljung04/lab7` command was 12 up in the\
+The `gitclone https://github.com/haesoljung04/lab7` command was 12 up in the
 search history, so I used the up arrow to access it and the enter key to run.
 
 ### 6. Run the tests, demonstrating that they fail
@@ -21,10 +21,10 @@ search history, so I used the up arrow to access it and the enter key to run.
 > Keys Pressed: `c + d + l + a + b + 7`,`<up><up><up><up><up><up><up><up><up><up><up><up><enter>`,\
 > `<up><up><up><up><up><up><up><up><up><up><up><up><enter>`
 
-The `cd lab7` command allowed me to change directory into the forked repo\
-so that I could run the tests and pressing the up key 15 times allowed me to access\
-the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`\
-and pressing it 13 times allowed me to access `java -cp .:lib/hamcrest-core-1.3.jar:\
+The `cd lab7` command allowed me to change directory into the forked repo
+so that I could run the tests and pressing the up key 15 times allowed me to access
+the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
+and pressing it 13 times allowed me to access `java -cp .:lib/hamcrest-core-1.3.jar:
 lib/junit-4.13.2.jar org.junit.runner.JUnitCore`. These 2 commands allow us to
 compile and run the JUnit tests respectively.
 

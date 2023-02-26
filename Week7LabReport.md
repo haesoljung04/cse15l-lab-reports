@@ -30,6 +30,14 @@ The `nano ListExamples.java` command was 5 up arrow keys up so I rant that like 
 
 
 ### 8. Run the tests, demonstrating that they now succeed
-\
+<img width="936" alt="Screenshot 2023-02-25 at 9 34 16 PM" src="https://user-images.githubusercontent.com/110417501/221394189-c0a4c2ea-9029-422d-91e8-a63bc152f63a.png">
+
+> Keys Pressed: `<up><up><up><enter>`, `<up><up><enter>`
+
+Pressing the up key 3 times allowed me to access the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and pressing it 2 times allowed me to access `java -cp.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore`. These 2 commands allow us to recompile and run the JUnit tests respectively.
 ### 9. Commit and push the resulting change to your Github account
-\
+<img width="467" alt="Screenshot 2023-02-25 at 9 38 32 PM" src="https://user-images.githubusercontent.com/110417501/221394301-b9dedd8f-bb77-430a-8aea-87254592a6e6.png">
+
+> Keys Pressed: `<up><up><up><up><up><up><up><up><up><up><up><enter>`,`<up><up><up><up><up><up><up><up><up><up><enter>`
+
+Pressing the up key 11 times allowed me to use the command `git add ListExamples.java` which commits the changes and pressing the up key 10 times allowed me to use the command `git commit -m "updated"` allowing me to the push the changes to my GitHub account and sending a message to confirm success.

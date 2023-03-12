@@ -1,7 +1,7 @@
 # Week 5 Lab Report
 ## Researching Commands: `find`
 - **Using `-name` option**
-- Sources used: ChatGPT and [find man page]([https://linuxcommand.org/lc3_man_pages/grep1.html](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html))<br />
+- Sources used: ChatGPT and [find man page](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html)<br />
 1.
 Command:
 ```
@@ -34,7 +34,7 @@ written_2/travel_guides/berlitz2/China-WhereToGo.txt
 <br />
 
 - **Using `-type` option**
-- Sources used: ChatGPT and [find man page]([https://linuxcommand.org/lc3_man_pages/grep1.html](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html))<br />
+- Sources used: ChatGPT and [find man page](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html)<br />
 1.
 Command:
 ```
@@ -77,7 +77,7 @@ etc....
 <br />
 
 - **Using `-size` option**
-- Sources used: ChatGPT and [find man page]([https://linuxcommand.org/lc3_man_pages/grep1.html](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html))<br />
+- Sources used: ChatGPT and [find man page](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html)<br />
 1.
 Command:
 ```
@@ -110,7 +110,7 @@ Output:
 <br />
 
 - **Using `-printf` option**
-- Sources used: ChatGPT and [find man page]([https://linuxcommand.org/lc3_man_pages/grep1.html](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html))<br />
+- Sources used: ChatGPT and [find man page](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html)<br />
 1.
 Command:
 ```

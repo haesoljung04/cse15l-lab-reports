@@ -1,4 +1,4 @@
-# Week 5 Lab Report
+# Week 9 Lab Report(Lab Report 5)
 ## Researching Commands: `find`
 - **Using `-name` option**
 - Sources used: ChatGPT and [find man page](https://docs.oracle.com/cd/E86824_01/html/E54763/find-1g.html)<br />
